@@ -1,0 +1,10 @@
+.FootMenu{
+    text-align: right;        
+    direction: rtl;
+    display: flex;
+    height:30px;
+    width: 100%;
+    position: fixed;
+    position:sticky;
+    bottom: 0;
+  }

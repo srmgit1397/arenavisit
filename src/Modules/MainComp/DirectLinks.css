@@ -1,0 +1,19 @@
+
+.directLinks{
+    padding: 0px;
+    box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.5);
+    width: 112px;
+    height: 38px;
+    margin: auto;
+    margin-top: 5px;
+    cursor: pointer;
+  }
+
+.pushLink{
+    padding: 0px;
+    width: 112px;
+    margin: auto;
+    margin-top: 3px;
+    background-color: lightpink;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+import React ,{useState , useContext} from 'react'
+import TopMenu from './Modules/Main/MainComp/TopMenu'
+import FootMenu from './Modules/Main/MainComp/FootMenu'
+import Home from './Modules/Main/MainPage/Home'
+
+
+
+
+function AppFrame(){
+  return(
+    <>
+     <TopMenu/>
+      <div id='MainWrapper'>
+        <Home />
+      </div>
+     <FootMenu/>
+    </>
+  )
+}
+
+export default AppFrame;
